@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Timini51
 - 👀 I’m interested in front end development 
-- 🌱 I’m currently learning and working on html and css 
+- 🌱 I’m currently learning JavaScript and working on projects  
 - 💞️ I’m looking to collaborate on few projects
 - 📫 How to reach me 08078271579
 - 😄 Pronouns: ...
